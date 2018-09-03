@@ -1,4 +1,4 @@
 # ZJUNlict
-* [team description](team.md)
-* [software group](software.md])
-* [Hardware group](Hardware_Mechanics.md)
+* [Team Description](team.md)
+* [Software group](software.md])
+* [Hardware group](Hardware.md)
