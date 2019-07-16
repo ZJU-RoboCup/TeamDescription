@@ -23,6 +23,8 @@ ZJUNlict所在的小型组(Small Size League），是RoboCup历史最为悠久�
 
 RoboCup为了推进机器人行业发展，规则并不是一成不变的，每个组别的难度都会随着时间不断加大。以小型组为例，从第一届RoboCup小型组的场地只有一个台球桌这么大，场上每队只有两个机器人。发展至今，小型组的场地规模已经达到了12米长9米宽，每队机器人数量也增加到了11个。
 
+![ssl](./pic/ssl.png)
+
 关于小型组的更多介绍[参阅这里](http://wiki.robocup.org/Small_Size_League)。
 
 
