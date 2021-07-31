@@ -9,5 +9,5 @@
 >  :soccer::soccer:
 >  :soccer:
 
-软件组 - [清单](software.md)
-硬件组 - [清单](hardware.md)
+* 软件组 - [清单](software.md)
+* 硬件组 - [清单](hardware.md)
